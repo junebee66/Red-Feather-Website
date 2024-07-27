@@ -1,5 +1,5 @@
 # Red Feather Website
-<img src="https://github.com/junebee66/molab-2023/blob/main/Week11/Sources/MU_Outdoor.jpg" width="100%">
+<img src="https://github.com/junebee66/Red-Feather-Website/blob/main/assets/._menu-mobile.gif" width="100%">
 
 
 ### **🛑 DISCLAIMER 🛑**

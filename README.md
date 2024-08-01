@@ -1,5 +1,5 @@
 # Red Feather Website
-<img src="https://github.com/junebee66/Red-Feather-Website/blob/main/assets/mock-up/._RF_Front_Mockup.jpg" width="100%">
+<img src="https://github.com/junebee66/Red-Feather-Website/blob/main/assets/mock-up/RF_Front_Mockup.jpg width="100%">
 
 
 ### **🛑 DISCLAIMER 🛑**

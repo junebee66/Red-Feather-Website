@@ -1,5 +1,5 @@
 # Red Feather Website
-The Red Feather website is a commercial platform designed and developed by June Bee and Andrea Chang for the Red Feather restaurant, situated in Washington Square, New York City.
+The Red Feather website is a commercial platform designed and developed by June Bee and Andrea Chang for the Red Feather restaurant, situated in Washington Square, New York City. </br>
 <img src="https://github.com/junebee66/Red-Feather-Website/blob/main/assets/mock-up/menu-mobile.gif" width="30%">
 
 ## ** More**
